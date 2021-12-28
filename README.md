@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on pyhton and arduino based projects
 - 📫 How to reach me 
 - Email : hharshit_be19@thapar.edu  
-- Instagram : (thakur0309)
+- Instagram : thakur0309
 - LinkedIn : https://www.linkedin.com/in/harshit-thakur-1166481a9/
 
 <!---
