@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mauser0007
+- 👋 Hi, I’m @harshit007
 - 👀 I’m interested in electronics        
 - 🌱 I’m currently learning python and plc programming
 - 💞️ I’m looking to collaborate on pyhton and arduino based projects
