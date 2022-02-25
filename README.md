@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on arduino based projects
 - 📫 How to reach me 
      Email : harshitthakur7168@gmail.com  
+     
+     
      Instagram : thakur0309
+     
+     
      LinkedIn : https://www.linkedin.com/in/harshit-thakur-1166481a9/
 
 <!---
