@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning python and plc programming
 - 💞️ I’m looking to collaborate on arduino based projects
 - 📫 How to reach me 
+
+
      Email : harshitthakur7168@gmail.com  
      
      
